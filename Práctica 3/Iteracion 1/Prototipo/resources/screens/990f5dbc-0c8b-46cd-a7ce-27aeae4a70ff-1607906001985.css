@@ -1,0 +1,133 @@
+#s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff > #backgroundBox {
+  position: absolute;
+}
+#s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff > #alignmentBox {
+  position: relative;
+  margin: 0 auto;
+  max-width: 463.0px;
+  max-height: 868.0px;
+}
+#s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff #s-Image_1 {
+  position: absolute;
+  width: 463.0px;
+  height: 868.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+_:-ms-fullscreen, :root #s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff #s-Image_1 {
+  box-shadow: none;
+}
+#s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff #s-Button_1 {
+  position: absolute;
+  width: 66.0px;
+  min-height: 27.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  text-shadow: none;
+  cursor: pointer;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+_:-ms-fullscreen, :root #s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff #s-Button_1 {
+  box-shadow: none;
+}
+#s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff #s-Button_1 .paddingLayer:first-child {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+#s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff #s-Button_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff #s-Button_1 span {
+  color: #030303;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff #s-Button_1 span#rtr-s-Button_1_0 {
+  color: #030303;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff #s-Button_2 {
+  position: absolute;
+  width: 41.0px;
+  min-height: 45.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  text-shadow: none;
+  cursor: pointer;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+_:-ms-fullscreen, :root #s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff #s-Button_2 {
+  box-shadow: none;
+}
+#s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff #s-Button_2 .paddingLayer:first-child {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+#s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff #s-Button_2 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff #s-Button_2 span {
+  color: #030303;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff #s-Button_2 span#rtr-s-Button_2_0 {
+  color: #030303;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-990f5dbc-0c8b-46cd-a7ce-27aeae4a70ff > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
